@@ -52,7 +52,7 @@
 <pre align="center">apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/praiman99/AutoScriptVPN-AIO/Beginner/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 </pre></p>
 
-<h3 align="center">Thanks To TEAM #G404 </h3>
+<h3 align="center">Thanks To TEAM #G404 ❤️</h3>
 
 <h3 align="center">Additional Info</h3>
 Recommended OS :
