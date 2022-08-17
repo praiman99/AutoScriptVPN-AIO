@@ -65,6 +65,8 @@ Recommended OS :
 
 Credit To : https://t.me/horasss (Orignal Base Script)
 
+Credit To : https://github.com/GH-reyz (Remake Base Script)
+
 Report Bugs Contact : https://t.me/PR_Aiman
   
 <p align="center">
