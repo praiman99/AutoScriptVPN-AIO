@@ -59,10 +59,6 @@ Recommended OS :
 
  - Debian 9 & 10 x64 bit
 
-- Ubuntu 18.04 & 20.04 x64 bit
-
-- Centos 7 & 8 x64 bit
-
 Credit To : https://t.me/horasss (Orignal Base Script)
 
 Report Bugs Contact : https://t.me/PR_Aiman
