@@ -1,4 +1,4 @@
-<h1 align="center"> VPS AutoScriptVPN-AIO <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
+<h1 align="center"> VPS AutoScriptVPN-AIO <img src="https://img.shields.io/badge/Version-1.1-blue.svg"></h1>
 
 <p align="center">VPS AutoScriptVPN-AIO is made by PR Aiman for Virtual Private Network</p>
 <p align="center">
@@ -14,6 +14,7 @@
 <h3 align="center">Services</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-SSH-success.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-WEBSOCKET-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-STUNNEL4-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-OPENVPN-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-V2RAY-success.svg"></a>
