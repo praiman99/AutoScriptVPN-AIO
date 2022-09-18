@@ -37,7 +37,7 @@
     
  <h3 align="center">Screenshorts</h3>
  
- <img src="https://raw.githubusercontent.com/praiman99/AutoScriptVPN-AIO/Beginner/1.png" width="100%">
+ <img src="https://raw.githubusercontent.com/praiman99/AutoScriptVPN-AIO/Beginner/2.png" width="100%">
   
   </h3>
   
