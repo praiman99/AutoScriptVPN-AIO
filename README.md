@@ -1,4 +1,4 @@
-<h1 align="center"> VPS AutoScriptVPN-AIO <img src="https://img.shields.io/badge/Version-1.1-blue.svg"></h1>
+<h1 align="center"> VPS AutoScriptVPN-AIO <img src="https://img.shields.io/badge/Version-1.2-blue.svg"></h1>
 
 <p align="center">VPS AutoScriptVPN-AIO is made by PR Aiman for Virtual Private Network</p>
 <p align="center">
